@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nokhabsc/static/css/main.478827d1.css",
+    "main.js": "/nokhabsc/static/js/main.7b87e89a.js",
+    "static/media/LLM&chips.png": "/nokhabsc/static/media/LLM&chips.1bcf52b8e15523505e88.png",
+    "static/media/Ch.jpg": "/nokhabsc/static/media/Ch.d2fdfe848a886d73080f.jpg",
+    "static/media/toqeer.jpg": "/nokhabsc/static/media/toqeer.ffbdeba4c05730c1d441.jpg",
+    "static/media/ADS-removebg-preview.png": "/nokhabsc/static/media/ADS-removebg-preview.f901ae571b2885da33b3.png",
+    "static/media/SDU-removebg-preview.png": "/nokhabsc/static/media/SDU-removebg-preview.c839115916c68b9aff38.png",
+    "static/media/dr_sc.jpg": "/nokhabsc/static/media/dr_sc.8100d81ac09a8418046f.jpg",
+    "static/media/Muhammad.jpg": "/nokhabsc/static/media/Muhammad.eb11ce6ae73223499214.jpg",
+    "index.html": "/nokhabsc/index.html",
+    "main.478827d1.css.map": "/nokhabsc/static/css/main.478827d1.css.map",
+    "main.7b87e89a.js.map": "/nokhabsc/static/js/main.7b87e89a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478827d1.css",
+    "static/js/main.7b87e89a.js"
+  ]
+}
